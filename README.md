@@ -1,5 +1,7 @@
 # 🚴‍♂️ The Bicycle Shop – Verkaufs- & Profitabilitätsanalyse (Excel Dashboard)
 
+![Dashboard Vorschau](dashboard_preview.png)
+
 ## 🎯 Projektziel
 Ziel des Projekts war der Aufbau eines interaktiven Excel-Dashboards zur Analyse von Verkaufs- und Profitabilitätsdaten für den Zeitraum 2011–2016.  
 Der Fokus lag auf der Identifikation von umsatz- und gewinnstarken Märkten, Produkten und Kundensegmenten.
