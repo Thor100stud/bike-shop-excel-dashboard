@@ -57,6 +57,10 @@ Das interaktive Dashboard enthält:
 ---
 
 ## 👤 Autor
-**Thor**  
-_Data Analyst (IHK-Zertifizierung in Ausbildung)_  
-📅 Projektzeitraum: März 2025
+
+**Thorsten Teetzen**  
+*Data Analyst (IHK-Zertifizierung in Ausbildung)*  
+
+📅 **Projektzeitraum:** März 2025  
+🌍 **Standorte:** Germany / Asia (Remote)  
+🔗 [LinkedIn-Profil](https://www.linkedin.com/in/thorsten-teetzen-744891350)
