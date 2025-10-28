@@ -77,3 +77,12 @@ Das interaktive Dashboard enthält:
 📅 **Projektzeitraum:** März 2025  
 🌍 **Standorte:** Germany / Asia (Remote)  
 🔗 [LinkedIn-Profil](https://www.linkedin.com/in/thorsten-teetzen-744891350)
+
+---
+
+## 📄 Lizenz
+Dieses Projekt steht unter der **MIT-Lizenz** – siehe [LICENSE](LICENSE) Datei für Details.  
+Es wurde im Rahmen der Weiterbildung zum **Data Analyst (IHK)** zu Lern- und Demonstrationszwecken erstellt.  
+Eine kommerzielle Nutzung oder Weitergabe der enthaltenen Daten ist ausgeschlossen.  
+
+© 2025 Thorsten Teetzen
